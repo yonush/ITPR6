@@ -1,0 +1,5 @@
+# ITPR6.518 Assessment notes
+
+You will build an application in the Go language, potentially in a team of 2 people. It is important you will clearly identify your contribution to the project. You will get an individual mark based on your contribution and your role in the team.
+
+The application you will build is called Enterprise Notes and offers the notion of a shared notebook with a task tracking feature. The idea is that notes and tasks can be shared with identified users who can read and write notes in this application. You will pay special attention to a search and filter function that enables users to sift through unstructured texts. Security is an important feature as only authorised users on this notebook will have access. The application will be available as a web-service with a light-weight front-end (you're not required to build a comprehensive GUI front-end).
